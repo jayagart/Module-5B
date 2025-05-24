@@ -31,7 +31,7 @@ print(df)
 
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/35360bb3-c8e9-4daa-8e1b-8e97ac984792)
+![image](https://github.com/user-attachments/assets/385c7e6b-ab36-469d-8f6b-b558d5d6bc51)
 
 ## Result
 Thus,the program has been executed successfully.
